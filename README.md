@@ -5,6 +5,7 @@ A full-stack web application designed to help manage personal finances. It allow
 ## 🔗 Project Links
 
 * **Live Demo Video:** [Watch the demo on Google Drive](https://drive.google.com/file/d/1cjdv_nt8Dv-mkPG5VnNhu5P7PGRne6LG/view?usp=sharing)
+* **GitHub Repository:** [View source code on GitHub](https://github.com/Ahmadbashar/expense-tracker)
 
 ## 🚀 Features
 
